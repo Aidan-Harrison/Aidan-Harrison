@@ -14,5 +14,5 @@
   - Procedurally generated systems, video games or not
 - 📫 How to reach me:
   LinkedIn: linkedin.com/in/aidan-harrison-9a2597164
-  Discord: 
-  Twitter:
+  Discord: Aid#6824
+  Twitter: https://twitter.com/HarrisonAid
