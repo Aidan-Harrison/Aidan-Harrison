@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aidan Harrison
+- 👋 Hi, I’m Aid Harrison
 - 👀 I’m interested in:
   - Procedural Generation
   - VR (Virutal-Reality)
