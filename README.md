@@ -16,3 +16,6 @@
   LinkedIn: linkedin.com/in/aidan-harrison-9a2597164
   Discord: Aid#6824
   Twitter: https://twitter.com/HarrisonAid
+  
+  ![image](https://user-images.githubusercontent.com/34375218/134702518-f47e0387-703f-4746-bfc5-f646cf188384.png)
+
