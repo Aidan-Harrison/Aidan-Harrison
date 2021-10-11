@@ -3,6 +3,7 @@
   - Procedural Generation
   - VR (Virtual-Reality)
   - BCI's (Brain Computer Interfaces)
+  - Complex Systems
   - Computer Graphics
   - Optimisations
 - 🌱 I’m currently learning:
