@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aid Harrison
 - 👀 I’m interested in:
   - Procedural Generation
-  - VR (Virutal-Reality)
+  - VR (Virtual-Reality)
   - BCI's (Brain Computer Interfaces)
   - Computer Graphics
   - Optimisations
