@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Aid Harrison
-- 👀 I’m interested in:
+- 👀 Interests:
   - Procedural Generation
   - VR (Virtual-Reality)
   - BCI's (Brain Computer Interfaces)
@@ -15,6 +14,5 @@
   - Procedurally generated systems, video games or not
 - 📫 How to reach me:
   LinkedIn: linkedin.com/in/aidan-harrison-9a2597164
-  Discord: Aid#6824
   Twitter: https://twitter.com/HarrisonAid
 
