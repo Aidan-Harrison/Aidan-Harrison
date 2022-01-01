@@ -12,7 +12,7 @@
   - VR + BCI development for creating virtual experiences
   - Video Games, primarily VR based
   - Procedurally generated systems, video games or not
-- 📫 How to reach me:
+- 📫 Socials:
   LinkedIn: linkedin.com/in/aidan-harrison-9a2597164
   Twitter: https://twitter.com/HarrisonAid
 
