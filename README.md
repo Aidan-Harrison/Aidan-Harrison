@@ -2,13 +2,11 @@
   - Procedural Generation
   - VR (Virtual-Reality)
   - BCI's (Brain Computer Interfaces)
-  - Operating Systems
   - Complex Systems
-  - Computer Graphics
   - Optimisation
 - 🌱 I’m currently learning:
   - Rust
-  - OpenGL
+  - Raylib
 - 💞️ I’m looking to collaborate on:
   - VR + BCI development for creating virtual experiences
   - Low-level development projects
