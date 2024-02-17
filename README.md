@@ -1,3 +1,4 @@
+Currently developer for: UltiX Technologies on the official UFA game
 - 👀 Interests:
   - Games design
   - Procedural Generation
