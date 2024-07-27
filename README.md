@@ -1,17 +1,15 @@
 Currently developer for: UltiX Technologies on the official UFA game
 - 👀 Interests:
-  - Games design
+  - Game development
   - Procedural Generation
   - VR (Virtual-Reality)
   - BCI's (Brain Computer Interfaces)
   - Optimisation
-- 🌱 I’m currently learning:
-  - Rust
 - 💞️ I’m looking to collaborate on:
   - Video Games
-  - Custom tools
+  - Custom tools/Engine development
   - Procedurally generated systems
-  - VR + BCI development for creating virtual experiences
+  - VR development
 - 📫 Socials:
   LinkedIn: linkedin.com/in/aidan-harrison-9a2597164
   Twitter: https://twitter.com/NEO_COVVA
